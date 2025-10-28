@@ -1,0 +1,21 @@
+title: Cyber Meme 2025
+description: Welcome to the future of digital culture
+url: ""
+baseurl: ""
+
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .gitignore
